@@ -1,6 +1,6 @@
-{"credits":{"blaiszik":1}}
-{"credits":{"ward":3}}
-{"credits":{"james":25}}
-{"credits":{"pruyne":12}}
-{"credits":{"decost":10}}
-{"credits":{"foster":7}}
+{"credits":{"user":"blaiszik", "type":"data", "value":1}}
+{"credits":{"user":"blaiszik", "type":"ai", "value":3}}
+{"credits":{"user":"blaiszik", "type":"data", "value":7}}
+{"credits":{"user":"foster", "type":"infrastructure", "value":20}}
+{"credits":{"user":"james", "type":"ai", "value":30}}
+{"credits":{"user":"pruyne", "type":"data", "value":17}}
